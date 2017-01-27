@@ -1,4 +1,4 @@
-class Triangle {
+class TriangleLevel1 {
     public static void main(String[] args) {
         
         for(int j=5;j>0;j--) {
